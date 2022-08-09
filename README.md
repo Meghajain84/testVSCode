@@ -1,4 +1,6 @@
 # testVSCode
 testing repository for VSCode
 
-additional test
+* additional test
+
+* another way to read me 
